@@ -29,7 +29,7 @@ RabbitMQ é amplamente utilizado em cenários onde há a necessidade de comunica
 
 O **Produtor** é o responsável por criar e enviar mensagens para o RabbitMQ. Ele se conecta à exchange e envia os dados que serão processados ou armazenados até que um consumidor os recupere.
 
-Neste projeto, o nosso **Producer** é responsável por gerar e enviar uma mensagem para o RabbitMQ. Você pode acessar o **Producer** através desta URL: [Producer](https://github.com/Mauro-Pereira/RabbitMQ-Producer/tree/main)
+Neste projeto, o nosso **Producer** é responsável por gerar e enviar uma mensagem para o RabbitMQ. Você pode acessar o **Producer** através desta URL: [Producer](https://github.com/Mauro-Pereira/RabbitMQ-Producer)
 
 ## 🎯 O que é um "Consumidor de Mensagem"?
 
